@@ -4,7 +4,7 @@
 # from textSummarizer.pipeline.stage_04_model_trainer import ModelTrainerTrainingPipeline
 # from textSummarizer.pipeline.stage_05_model_evaluation import ModelEvaluationTrainingPipeline
 
-from textSummarizer.logging import logger
+from src.textSummarizer.logging.logging import logger
 
 logger.info("WEL-COME TO TEXT SUMMARIZATION PROJECT")
 
